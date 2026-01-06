@@ -50,4 +50,4 @@ A full-stack web application designed for the **Dayan Kahandawala Academy of Dan
 * `db_connect.sample.php` - Template for database connection.
 
 ---
-*Built by [Your Name] - 2026*
+*Built by Charuka Yasasara- 2025
